@@ -4,7 +4,7 @@ This repository uses [Node.js](https://nodejs.org/en) and [MySQL](https://dev.my
 
 ## Database Setup
 
-Once you have MySQL installed, run these commands to create the Time Clock's database of employees:
+Once you have MySQL installed, add your password to line 15 of index.js, then run these commands to create the Time Clock's database of employees:
 ```
 CREATE DATABASE time_clock_db;
 USE time_clock_db;
